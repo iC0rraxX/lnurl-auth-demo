@@ -1,4 +1,4 @@
-# LightningLogin.Live - A LNURL-auth Demo
+# A LNURL-auth Demo
 
 This is a simple demo site to showcase how damn cool it is to log in with Lightning. ⚡
 
